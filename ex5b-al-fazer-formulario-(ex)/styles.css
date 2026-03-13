@@ -1,6 +1,3 @@
-/* 2ª Digitação (Aqui) */
-/* Formulários e inputs */
-
 .custom-form {
     background: linear-gradient(145deg, #2c3e50, #3498db);
     padding: 2rem;
@@ -15,6 +12,8 @@
     background-color: #3498db;
     border: #3498db;
 }
+
+
 
 .form-control.custom-input {
     border: 3px solid #e74c3c;
@@ -32,7 +31,7 @@
 }
 
 .btn.btn-primary.custom-button {
-    background: linear-gradient(45deg, #e74c3c, #f39c12);
+    background: linear-gradient(45deg, #3498db);
     padding: 0.8rem 2rem;
     border-radius: 50px;
     border: none;
@@ -40,5 +39,5 @@
 
 .btn.btn-primary.custom-button:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(231, 76, 60, 0.4);
+    box-shadow: 0 10px 20px rgba(60, 217, 231, 0.4);
 }
